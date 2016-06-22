@@ -1,0 +1,3 @@
+da terminale(windows) 
+g++ -o file 20luglio2015.cpp
+file.exe numeri.txt
